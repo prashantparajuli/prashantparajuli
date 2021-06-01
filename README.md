@@ -1,7 +1,7 @@
 - 👋 Hi, it's @Mr-TOPUSiR
 - 👾 Find me on discord:
-      ᴍ ʀ . ᴛ ᴏ ᴘ ᴜ ꜱ ! ʀ#9928 (my tag)
-      https://discord.gg/H4EXGfP
+      - ᴍ ʀ . ᴛ ᴏ ᴘ ᴜ ꜱ ! ʀ#9928 (my tag)
+      - https://discord.gg/H4EXGfP
 - 🔥 Check my YT (beats and stuff)
       YT: https://www.youtube.com/channel/UCYtLlkHYU3rnBsMwopFM2Iw
 - 📫 Contact: 
