@@ -16,3 +16,13 @@
 <img alt = 'css' align='left' src = 'https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
 <img alt = 'php' align='left' src = 'https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white'/>
 <img alt = 'mysql' align='left' src = 'https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'/>
+<img alt = 'github' src = 'https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
+
+## Find me on :
+<a href = 'https://www.instagram.com/mr_txpusir/'><img alt = 'instagram' align='left' src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'/></a>
+<a href = 'https://www.facebook.com/prassaant.2.0'><img alt = 'facebook' align='left' src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white'/></a>
+<a href = '#'><img alt = 'linkedin' align='left' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<a href = 'https://www.youtube.com/channel/UCYtLlkHYU3rnBsMwopFM2Iw'><img alt = 'youtube' align='left' src='https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white'/></a>
+<a href = 'https://discord.gg/H4EXGfP'><img alt = 'discord' align='left' src='https://img.shields.io/badge/RGO-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white'/></a>
+
+
